@@ -52,6 +52,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 
 ## OUPUT
 Server.py
+
 <img width="709" height="164" alt="image" src="https://github.com/user-attachments/assets/dedd297a-bae9-407b-995c-a39b4470c40d" />
 
 Client.py
